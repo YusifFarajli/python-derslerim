@@ -1,1 +1,1 @@
-print("Ura! Mən ilk kodumu VS Code-da yazdım!")
+print("Salam, Dunya!")
